@@ -1,0 +1,6 @@
+venv/
+.idea/
+*.mp3
+*.npz
+*.flac
+*.wav
