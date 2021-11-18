@@ -1,6 +1,8 @@
 venv/
 .idea/
+.ipynb_checkpoints/
 *.mp3
+*.aac
 *.npz
 *.flac
-*.wav
+*_regenerated_*.wav
