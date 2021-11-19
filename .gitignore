@@ -6,3 +6,7 @@ venv/
 *.npz
 *.flac
 *_regenerated_*.wav
+
+mdct_const.wav
+
+mdct_sine.wav
