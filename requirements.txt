@@ -1,7 +1,5 @@
 mdct
 soundfile
 numpy
-argparse
-tqdm
 matplotlib
 notebook
